@@ -1,8 +1,15 @@
 # 중고 명품 거래 사이트(LUX)
+# 담당 역할
+* DB설계 
+* 사용자/관리자 페이지 디자인
+* 사용자/관리자 페이지 로그 서비스/레포지토리     
+* 사용자 마이페이지 섹션(주문관리, 포인트관리,) 
+* 관리자 섹션별 리스트 매핑
 
 ## 개발 환경
 
 * Intellij IDEA Ultimate 2022.2
+* Visual Studio Code
 * Java 17
 * Gradle 7.4.1
 * Spring Boot 2.7.3
@@ -20,8 +27,6 @@ Spring Boot
 * MySQL Driver
 * Lombok
 * Spring Boot DevTools
-
-## 데모 페이지
 
 ## 질문, 건의
 
